@@ -1,6 +1,3 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=ffffff&width=435&lines=Building+systems+that+outlive+the+sprint.;Backend+engineer.+Infrastructure+thinker.;Uncomfortable+by+choice.+Sharp+by+design.)](https://git.io/typing-svg)
-
 # Jerónimo Gallego
 ### Backend & Infrastructure Engineer
 
@@ -16,6 +13,9 @@
 ---
 
 ## About
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=ffffff&width=435&lines=Building+systems+that+outlive+the+sprint.;Backend+engineer.+Infrastructure+thinker.;Uncomfortable+by+choice.+Sharp+by+design.)](https://git.io/typing-svg)
 
 > Trained at **RIWI**. Driven by discomfort.
 >
