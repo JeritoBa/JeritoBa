@@ -18,10 +18,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=ffffff&width=435&lines=Building+systems+that+outlive+the+sprint.;Backend+engineer.+Infrastructure+thinker.;Uncomfortable+by+choice.+Sharp+by+design.)](https://git.io/typing-svg)
 
 > Trained at **RIWI**. Driven by discomfort.
->
-> I build backend systems and cloud infrastructure with one conviction: the best engineers aren't the ones who know the most — they're the ones who **stay uncomfortable the longest**. I don't write code to close tickets. I write code to understand the problem behind the problem, and ship solutions that actually move the needle for real users.
->
-> Based in Medellín. Working globally.
+
+I build backend systems and cloud infrastructure with one conviction: the best engineers aren't the ones who know the most — they're the ones who **stay uncomfortable the longest**. I don't write code to close tickets. I write code to understand the problem behind the problem, and ship solutions that actually move the needle for real users.
+
+Based in Medellín. Working globally.
 
 ---
 
