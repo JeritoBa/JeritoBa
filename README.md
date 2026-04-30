@@ -4,18 +4,18 @@
 # Jerónimo Gallego
 ### Backend & Infrastructure Engineer
 
-![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&color=000)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&color=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&color=000)
-![C#](https://img.shields.io/badge/C%23%20%2F%20ASP.NET-informational?style=flat&color=000)
-![AWS](https://img.shields.io/badge/AWS-informational?style=flat&color=000)
-![Azure](https://img.shields.io/badge/Azure-informational?style=flat&color=000)
-![Docker](https://img.shields.io/badge/Docker-informational?style=flat&color=000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&color=000)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat)
+![Python](https://img.shields.io/badge/Python-informational?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat)
+![C#](https://img.shields.io/badge/C%23%20%2F%20ASP.NET-informational?style=flat)
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat)
+![Azure](https://img.shields.io/badge/Azure-informational?style=flat)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat)
 
 ---
 
-## // about
+## About
 
 > Trained at **RIWI**. Driven by discomfort.
 >
@@ -25,16 +25,16 @@
 
 ---
 
-## // github stats
+## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeritoBa&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeritoBa&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## // stack
+## Stack
 
 **Languages**
 
@@ -62,7 +62,7 @@
 
 ---
 
-## // projects
+## Projects
 
 ### Eventger
 > Internal event management platform built for companies that need structure, not chaos.
@@ -73,7 +73,7 @@ Handles full event lifecycle — creation, registration, attendee management —
 
 ---
 
-## // recent activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -82,7 +82,7 @@ Handles full event lifecycle — creation, registration, attendee management —
 
 ---
 
-## // how I work
+## How I work
 
 | Principle | In practice |
 |-----------|-------------|
