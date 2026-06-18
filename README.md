@@ -5,9 +5,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeronimogallego)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeronimo-gallego-n)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerogallego099@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -67,7 +67,7 @@ Also going deep with:
 - Designing multi-tenant systems with layered architecture
 - Building production-grade REST APIs with full OpenAPI documentation
 - Automating CI/CD pipelines with Docker and GitHub Actions
-- Deepening expertise in **ASP.NET Core** and the .NET ecosystem
+- Deepening expertise in *ASP.NET Core* and the .NET ecosystem
 - Exploring distributed systems patterns and scalability fundamentals
 
 <br clear="right"/>
@@ -85,7 +85,7 @@ Full-stack event management platform. First shipped application — demonstrates
 
 `NodeJS` `PostgreSQL` `Layered Architecture`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeritoBa)
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Reception and ticket registration system built with Laravel Blade. Focused on a 
 
 `Laravel` `Blade` `MySQL`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeritoBa)
 
 </td>
 </tr>
