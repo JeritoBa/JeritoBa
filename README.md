@@ -1,95 +1,127 @@
-# Jerónimo Gallego
-### Backend & Infrastructure Engineer
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat)
-![Python](https://img.shields.io/badge/Python-informational?style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat)
-![C#](https://img.shields.io/badge/C%23%20%2F%20ASP.NET-informational?style=flat)
-![AWS](https://img.shields.io/badge/AWS-informational?style=flat)
-![Azure](https://img.shields.io/badge/Azure-informational?style=flat)
-![Docker](https://img.shields.io/badge/Docker-informational?style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat)
+<h1>Jerónimo Gallego Nanclares</h1>
+<p>Doubt is the origin of wisdom | <small>René Descartes</small></p>
 
----
+<br/>
 
-## About
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeronimogallego)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=ffffff&width=435&lines=Building+systems+that+outlive+the+sprint.;Backend+engineer.+Infrastructure+thinker.;Uncomfortable+by+choice.+Sharp+by+design.)](https://git.io/typing-svg)
-
-> Trained at **RIWI**. Driven by discomfort.
-
-I build backend systems and cloud infrastructure with one conviction: the best engineers aren't the ones who know the most — they're the ones who **stay uncomfortable the longest**. I don't write code to close tickets. I write code to understand the problem behind the problem, and ship solutions that actually move the needle for real users.
-
-Based in Medellín. Working globally.
+</div>
 
 ---
 
-## Github Stats
+## About me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeritoBa&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeritoBa&theme=default&hide_border=true" />
-</p>
+I build software that works reliably, scales elegantly, and creates meaningful impact. My focus is the full development lifecycle — from system design and clean code to CI/CD pipelines and production deployments.
 
----
-
-## Stack
-
-**Languages**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23%20%2F%20ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Frontend**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+What drives me is a constant pursuit of better — not just code that runs, but systems that are maintainable, observable, and built to last.
 
 ---
 
-## Projects
+## Engineering Philosophy
+
+> *"The doubt is the origin of wisdom."*
+
+I approach problems with curiosity, not certainty. I question assumptions, measure carefully, and stay skeptical of "good enough."
+
+| Principle | What it means in practice |
+|---|---|
+| **Clarity over cleverness** | Code is for humans first, machines second |
+| **Ownership over blame** | If it's my responsibility, it succeeds or fails on me |
+| **Systems thinking** | A feature isn't done until it's deployed, monitored, and maintainable |
+| **Collaborative leadership** | The best solutions come from teams that respect each other |
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,cs,nodejs&theme=dark" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,bootstrap&theme=dark" />
+
+### Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=docker,nginx,github,githubactions,linux&theme=dark" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" />
+
+</div>
+
+---
+
+## Current Focus
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Currently working on <b>MindLens</b>, an AI-powered platform that helps therapists understand what happens between sessions.
+
+Also going deep with:
+
+- Designing multi-tenant systems with layered architecture
+- Building production-grade REST APIs with full OpenAPI documentation
+- Automating CI/CD pipelines with Docker and GitHub Actions
+- Deepening expertise in **ASP.NET Core** and the .NET ecosystem
+- Exploring distributed systems patterns and scalability fundamentals
+
+<br clear="right"/>
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### Eventger
-> Internal event management platform built for companies that need structure, not chaos.
+Full-stack event management platform. First shipped application — demonstrates end-to-end ownership from database design through deployment.
 
-Handles full event lifecycle — creation, registration, attendee management — with a clean, scalable backend.
+`NodeJS` `PostgreSQL` `Layered Architecture`
 
-`Node.js` · `PostgreSQL` · `Tailwind CSS`
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## Recent Activity
+### Kepler Ticket Receptionist
+Reception and ticket registration system built with Laravel Blade. Focused on a clean, fast interface for front-desk operations.
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+`Laravel` `Blade` `MySQL`
 
-> Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) GitHub Action.
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
----
-
-## How I work
-
-| Principle | In practice |
-|-----------|-------------|
-| **Systems over features** | I architect for what comes after v1, not just v1. |
-| **Business context first** | Code that solves the wrong problem is expensive code. |
-| **Infrastructure as craft** | Deployments and pipelines deserve the same care as code. |
-| **Bias toward shipping** | Clarity beats perfection. Iteration beats paralysis. |
+</td>
+</tr>
+</table>
 
 ---
 
-*Open to opportunities — let's build something real.*
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jeritoba&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeritoba&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering is the practical application of science. Excellence is the practical application of discipline."*
+
+<br/>
+
+**Open to challenging roles, interesting problems, and strong teams.**
+
+</div>
