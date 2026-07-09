@@ -80,12 +80,13 @@ Also going deep with:
 <tr>
 <td width="50%">
 
-### Eventger
-Full-stack event management platform. First shipped application — demonstrates end-to-end ownership from database design through deployment.
+### MindLens
 
-`NodeJS` `PostgreSQL` `Layered Architecture`
+AI-powered mental health platform for psychologists and patients. Designed and built end-to-end, featuring a multi-tenant architecture, secure authentication, journaling, treatment management, analytics, and AI-assisted insights.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeritoBa)
+`ASP.NET` `Core` `PostgreSQL` `Flutter` `OpenAI` `Worker` `AWS` `Layered Architecture`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riwi-io-Medellin/187-mindlens)
 
 </td>
 </tr>
@@ -97,7 +98,7 @@ Reception and ticket registration system built with Laravel Blade. Focused on a 
 
 `Laravel` `Blade` `MySQL`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeritoBa)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeritoBa/events_ticket)
 
 </td>
 </tr>
