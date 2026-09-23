@@ -1,108 +1,53 @@
 <div align="center">
 
-<h1>Junior FullStack Developer</h1>
-<p>Doubt is the origin of wisdom | <small>René Descartes</small></p>
+<h1>Jerónimo Gallego</h1>
+<p>Full Stack Developer Jr. — .NET, C#, React, PostgreSQL</p>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeronimo-gallego-n)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerogallego099@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I build software that works reliably, scales elegantly, and creates meaningful impact. My focus is the full development lifecycle — from system design and clean code to CI/CD pipelines and production deployments.
-
-What drives me is a constant pursuit of better — not just code that runs, but systems that are maintainable, observable, and built to last.
+Full Stack Developer Jr. with 2 years across academic and personal projects, focused on .NET/C#, React and PostgreSQL. I care about design decisions I can justify, not defaults: in Natillera I split business events from financial movements specifically to avoid polymorphic relations and data-integrity loss, and documented what I deliberately left as technical debt (concurrency control) instead of pretending it doesn't exist.
 
 ---
 
-## Engineering Philosophy
+## Best Work
 
-> *"The doubt is the origin of wisdom."*
+**[MindLens](https://github.com/Riwi-io-Medellin/187-mindlens)** — Backend Developer, hackathon, team of 3 (frontend, backend, cloud engineer)
+Clinical journaling platform for psychologists. Modeled the data flow from audio ingestion to S3, exposed the APIs consumed by the frontend, and implemented vector similarity search with pgvector (cosine distance) to track a patient's emotional evolution across weekly reports.
+`ASP.NET Core` `PostgreSQL` `pgvector` `AWS S3`
 
-I approach problems with curiosity, not certainty. I question assumptions, measure carefully, and stay skeptical of "good enough."
+**Natillera** — Full Stack Developer, individual project, headed to production with real users
+Platform for managing a collective savings fund with real money. Designed the data model to keep business events and financial transactions separate, added JWT-based authorization restricting write access to a single admin role, and planned daily serverless jobs for interest calculation and late-payment detection.
+`ASP.NET Core` `React` `PostgreSQL` `JWT`
 
-| Principle | What it means in practice |
-|---|---|
-| **Clarity over cleverness** | Code is for humans first, machines second |
-| **Ownership over blame** | If it's my responsibility, it succeeds or fails on me |
-| **Systems thinking** | A feature isn't done until it's deployed, monitored, and maintainable |
-| **Collaborative leadership** | The best solutions come from teams that respect each other |
-
----
-
-## Technology Stack
-
-<div align="center">
-
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,cs,nodejs&theme=dark" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,bootstrap&theme=dark" />
-
-### Infrastructure & DevOps
-<img src="https://skillicons.dev/icons?i=docker,nginx,github,githubactions,linux&theme=dark" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" />
-
-</div>
+**[Kepler Ticket Receptionist](https://github.com/JeritoBa/events_ticket)** — Full Stack Developer, individual module within a larger team project (ticket sales & scanning system)
+Built the reception module for concert and cinema seat reservations.
+`Laravel` `Blade` `MySQL`
 
 ---
 
 ## Current Focus
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-Currently working on <b>MindLens</b>, an AI-powered platform that helps therapists understand what happens between sessions.
-
-Also going deep with:
-
-- Designing multi-tenant systems with layered architecture
-- Building production-grade REST APIs with full OpenAPI documentation
-- Automating CI/CD pipelines with Docker and GitHub Actions
-- Deepening expertise in *ASP.NET Core* and the .NET ecosystem
-- Exploring distributed systems patterns and scalability fundamentals
-
-<br clear="right"/>
+- Implementing optimistic concurrency control (RowVersion pattern) on Natillera's financial entities
+- Deepening ASP.NET Core and EF Core, particularly around transactional integrity (Unit of Work) and concurrency
+- Writing unit tests for financial logic in Natillera (currently the main gap in that project)
 
 ---
 
-## Selected Projects
+## Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### MindLens
-
-AI-powered mental health platform for psychologists and patients. Designed and built end-to-end, featuring a multi-tenant architecture, secure authentication, journaling, treatment management, analytics, and AI-assisted insights.
-
-`ASP.NET` `Core` `PostgreSQL` `Flutter` `OpenAI` `Worker` `AWS` `Layered Architecture`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riwi-io-Medellin/187-mindlens)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Kepler Ticket Receptionist
-Reception and ticket registration system built with Laravel Blade. Focused on a clean, fast interface for front-desk operations.
-
-`Laravel` `Blade` `MySQL`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeritoBa/events_ticket)
-
-</td>
-</tr>
-</table>
+**Backend:** ASP.NET Core, C#, Laravel
+**Frontend:** React
+**Database:** PostgreSQL, pgvector
+**Infra:** Docker, GitHub Actions, AWS S3
 
 ---
 
@@ -112,17 +57,5 @@ Reception and ticket registration system built with Laravel Blade. Focused on a 
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeritoba&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeritoba&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Engineering is the practical application of science. Excellence is the practical application of discipline."*
-
-<br/>
-
-**Open to challenging roles, interesting problems, and strong teams.**
 
 </div>
