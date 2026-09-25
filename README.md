@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Jerónimo Gallego</h1>
-<p>Full Stack Developer Jr. — .NET, C#, React, PostgreSQL</p>
+<p>Full Stack Developer — .NET, C#, React, PostgreSQL</p>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## About
 
-Full Stack Developer Jr. with 2 years across academic and personal projects, focused on .NET/C#, React and PostgreSQL. I care about design decisions I can justify, not defaults: in Natillera I split business events from financial movements specifically to avoid polymorphic relations and data-integrity loss, and documented what I deliberately left as technical debt (concurrency control) instead of pretending it doesn't exist.
+Full Stack Developer with 2 years across academic and personal projects, focused on .NET/C#, React and PostgreSQL. I care about design decisions I can justify, not defaults: in Natillera I split business events from financial movements specifically to avoid polymorphic relations and data-integrity loss, and documented what I deliberately left as technical debt (concurrency control) instead of pretending it doesn't exist.
 
 ---
 
